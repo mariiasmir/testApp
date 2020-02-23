@@ -16,7 +16,18 @@ public:
     ~MainWindow();
 
 private slots:
-    void digitsNumbers();
+
+    void digits_numbers();
+
+    void on_btnComma_clicked();
+
+    void operations();
+
+    void on_btnAllClean_clicked();
+
+    void on_btnEquality_clicked();
+
+    void math_operations();
 
 private:
     Ui::MainWindow *ui;

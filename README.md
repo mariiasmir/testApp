@@ -3,6 +3,8 @@
 Ознакомиться с ним вы можете по ссылке 
 [Уроки QtCreator | Графический интерфейс на C++](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUaZe7H9kY6vWbSVrtwFv4M)
 
+<img src="https://user-images.githubusercontent.com/52590988/75112745-b3636300-5657-11ea-9251-95f2e1480c0b.png" widht = "250" height = "350">
+
 **Что может делать данный калькулятор?**
 - Менять знаковый разряд числа
 - Переводить число в проценты
